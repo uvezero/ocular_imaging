@@ -1,5 +1,5 @@
-# ocular_imaging
-Welcome to the Group 1  'Ocular Imaging' GitHub repository!!
+# OCULAR👁IMAGING
+Welcome to the Group 1  Ocular Imaging GitHub repository!!
 We are a team of physics students from UCL who have worked together to develop advanced ocular imaging technologies. Our team has divided our efforts between experimental work and coding, with the aim of creating affordable and accessible ocular imaging technologies that can improve the diagnosis and treatment of retinal conditions such as diabetic retinopathy and many others.
 
 To achieve our goals, we have developed several tools and techniques for analyzing and diagnosing retinal conditions. Our work includes the development of a multi-classifier using PyTorch, which accurately classifies retinal images into 5 different stages of diabetic retinopathy. We have also developed a robust bi-classifier using Keras and TensorFlow, which differentiates between healthy and diseased retinal images with an excellent accuracy.
